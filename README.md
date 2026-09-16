@@ -177,8 +177,6 @@ I enjoy working with programming languages, algorithms, databases, and web techn
 ## 📫 Contact
 
 * **Email:** [hmzobi16@gmail.com](mailto:hmzobi16@gmail.com)
-* **GitHub:** [Add your GitHub profile]
-* **LinkedIn:** [Add your LinkedIn profile]
 
 ## 📄 License
 
